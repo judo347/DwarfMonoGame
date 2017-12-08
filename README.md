@@ -7,8 +7,10 @@
 The game will be writen in C# with the help of MonoGame. I will work as a "get-into project" to test out MonoGame.
 
 ## Brainstorm ##
-Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and sound myself, 
+Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and sound myself, top-down, recources: stone, gold, diamond, wood, Wood is from abandoned things underground, 32x32 = en quare, 
 
+## Details ##
+- Graphics: Every picture is 32x32, 24x24 (32x32) is buildings because of tunnels.
 
 ## Todo: ##
 ### Improvements: ###
@@ -22,3 +24,6 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 
 ## Bugs: ##
 -
+
+## Graphics ##
+### Tunnels ###
