@@ -28,7 +28,7 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 
 ## Graphics ##
 ### Tunnels ###
-![GitHub Logo](/img/buildings/base/baseBlueIdle.png)
+![BaseBlueIdle](/img/buildings/base/baseBlueIdle.png)
 
 ### Bases ###
 
