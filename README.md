@@ -28,20 +28,10 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 
 ## Graphics ##
 ### Tunnels ###
-![BaseBlueIdle](/img/buildings/base/baseBlueIdle.png)
+
 
 ### Bases ###
-
-
-<h1 align="center">
-  
-  <a href="https://github.com/judo347/DwarfMonoGame"><img       src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseBlueIdle.png" width="32"></a>
-
-   <a href="https://github.com/judo347/DwarfMonoGame"><img src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseBlueWorking.png" width="32"></a>
- 
-   <a href="https://github.com/judo347/DwarfMonoGame"><img src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseRedIdle.png" width="32"></a>
- 
-   <a href="https://github.com/judo347/DwarfMonoGame"><img src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseRedWorking.png" width="32"></a>
-  
-</h1>
-  
+![BaseBlueIdle](/img/buildings/base/baseBlueIdle.png =64px)
+![BaseBlueWorking](/img/buildings/base/baseBlueWorking.png)
+![BaseRedIdle](/img/buildings/base/baseRedIdle.png)
+![BaseRedWorking](/img/buildings/base/baseRedWorking.png)
