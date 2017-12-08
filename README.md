@@ -2,6 +2,7 @@
   <a href="http://www.monogame.net/">[ MonoGame ]</a> -
   <a href="https://www.youtube.com/watch?v=N6r87rGDFV8">[ [YT] MonoGame ]</a>
   <a href="freesound.org">[ FreeSound ]</a>
+  <a href="https://color.adobe.com">[ Adobe Color ]</a> 
 </p>
 
 # DwarfMonoGame #
@@ -41,3 +42,6 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 ![BaseRedWorking](/img/buildings/base/baseRedWorking.png)
 ![BaseGreenIdle](/img/buildings/base/baseGreenIdle.png)
 ![BaseRedWorking](/img/buildings/base/baseGreenWorking.png)
+![BasePurpleIdle](/img/buildings/base/basePurpleIdle.png)
+![BasePurpleWorking](/img/buildings/base/basePurpleWorking.png)
+
