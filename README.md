@@ -7,7 +7,7 @@
 The game will be writen in C# with the help of MonoGame. I will work as a "get-into project" to test out MonoGame.
 
 ## Brainstorm ##
-Fog of war, underground, building, tunnels, digging, dwarfs, 
+Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and sound myself, 
 
 
 ## Todo: ##
