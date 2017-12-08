@@ -1,0 +1,5 @@
+eks: oneUp
+     |1 |2|
+
+1 = number of open ways.
+2 = Direction.
