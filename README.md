@@ -28,7 +28,11 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 
 ## Graphics ##
 ### Tunnels ###
-
+![tunnnelEnd](/img/tunnels/one/oneRight.png)
+![tunnnelMid](/img/tunnels/two/twoHorizontel.png)
+![tunnnelMid](/img/tunnels/two/twoHorizontel.png)
+![tunnnelMid](/img/tunnels/two/twoHorizontel.png)
+![tunnnelEnd](/img/tunnels/one/oneLeft.png)
 
 ### Bases ###
 ![BaseBlueIdle](/img/buildings/base/baseBlueIdle.png)
@@ -37,12 +41,3 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 ![BaseRedWorking](/img/buildings/base/baseRedWorking.png)
 ![BaseGreenIdle](/img/buildings/base/baseGreenIdle.png)
 ![BaseRedWorking](/img/buildings/base/baseGreenWorking.png)
-
-
-![tunnnelEnd](/img/tunnels/one/oneRight.png)
-![tunnnelMid](/img/tunnels/two/twoHorizontel.png)
-![tunnnelMid](/img/tunnels/two/twoHorizontel.png)
-![tunnnelMid](/img/tunnels/two/twoHorizontel.png)
-![tunnnelEnd](/img/tunnels/one/oneLeft.png)
-
-
