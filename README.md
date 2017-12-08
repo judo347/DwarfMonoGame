@@ -35,3 +35,6 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 ![BaseBlueWorking](/img/buildings/base/baseBlueWorking.png)
 ![BaseRedIdle](/img/buildings/base/baseRedIdle.png)
 ![BaseRedWorking](/img/buildings/base/baseRedWorking.png)
+![BaseGreenIdle](/img/buildings/base/baseGreenIdle.png)
+![BaseRedWorking](/img/buildings/base/baseGreenWorking.png)
+
