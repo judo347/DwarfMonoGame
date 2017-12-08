@@ -31,14 +31,14 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 
 ### Bases ###
 <h1 align="center">
-  <br>
+  
   <a href="https://github.com/judo347/DwarfMonoGame"><img       src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseBlueIdle.png" width="32"></a>
-  <br>
+
    <a href="https://github.com/judo347/DwarfMonoGame"><img src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseBlueWorking.png" width="32"></a>
-  <br>
+ 
    <a href="https://github.com/judo347/DwarfMonoGame"><img src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseRedIdle.png" width="32"></a>
  
    <a href="https://github.com/judo347/DwarfMonoGame"><img src="https://github.com/judo347/DwarfMonoGame/blob/master/img/buildings/base/baseRedWorking.png" width="32"></a>
-  <br>
+  
 </h1>
   
