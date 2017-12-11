@@ -49,4 +49,5 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 ![blockNothing](/img/blocks/blockNothing.png)
 ![blockStone](/img/blocks/blockStone.png)
 ![blockMinerals](/img/blocks/blockMinerals.png)
-![blockWood](/img/blocks/wood.png)
+![blockWood](/img/blocks/blockWood1.png)
+![blockWood](/img/blocks/blockWood2.png)
