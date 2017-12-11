@@ -45,3 +45,6 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 ![BasePurpleIdle](/img/buildings/base/basePurpleIdle.png)
 ![BasePurpleWorking](/img/buildings/base/basePurpleWorking.png)
 
+## Resources/World blocks ###
+Nothing, Stone, Wood, minerals.
+
