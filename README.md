@@ -35,6 +35,12 @@ Fog of war, underground, building, tunnels, digging, dwarfs, create graphics and
 ![tunnnelMid](/img/tunnels/two/twoHorizontel.png)
 ![tunnnelEnd](/img/tunnels/one/oneLeft.png)
 
+### Player ###
+![playerBlueStand](/img/player/playerBlueStand.png)
+![playerRedStand](/img/player/playerRedStand.png)
+![playerGreenStand](/img/player/playerGreenStand.png)
+![playerPurpleStand](/img/player/playerPurpleStand.png)
+
 ### Bases ###
 ![BaseBlueIdle](/img/buildings/base/baseBlueIdle.png)
 ![BaseBlueWorking](/img/buildings/base/baseBlueWorking.png)
